@@ -246,6 +246,7 @@
 
 .mobile-side-menu .mo-depth1 > li > :first-child > .arrow-icon {
   background: url("../images/icon/icon_drop.svg") no-repeat center;
+  background-size: cover;
 }
 
 .mobile-side-menu .mo-depth1 > li.active > :first-child > .arrow-icon {
